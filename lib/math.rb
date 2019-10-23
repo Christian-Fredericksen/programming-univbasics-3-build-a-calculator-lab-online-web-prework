@@ -28,3 +28,4 @@ def square_root(num)
   puts num
 
 end
+square_root("12")
